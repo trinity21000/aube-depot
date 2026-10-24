@@ -1,0 +1,23 @@
+Package: aube-integration
+Architecture: all
+Version: 0.57-1
+Priority: optional
+Section: misc
+Maintainer: Aube Linux <aube@localhost>
+Provides: wsdd
+Depends: python3, zenity, flatpak, wine, libnotify-bin, pciutils, policykit-1 | pkexec, systemd
+Recommends: icoutils, vulkan-tools, mesa-utils, mokutil, zram-tools, fprintd, libpam-fprintd, power-profiles-daemon
+Conflicts: wsdd
+Replaces: wsdd
+Filename: pool/main/aube-integration_0.57-1_all.deb
+Size: 100024
+MD5sum: 32882195395cae2de230693256247fc4
+SHA1: b3eea00635942e99c272df699b16ee8cd2058f7e
+SHA256: 3c8f4fdc0dc5a6f48436ce5287b29ecc03cb7bc78fad32bf405d88cc40dc01e4
+SHA512: cfe0b40b24d7dc0dace543b63c89f9fe11a1704837b5108ab9dff73aefff3670c8430a4824fb00c5a433e5d2d9ad99120b965e32ba39028c3bbee1d5c352aa38
+Description: Intégration système d'Aube Linux
+ Lanceur français de programmes Windows (Bottles + Wine), règle binfmt_misc,
+ associations .exe/.msi, diagnostic, mises à jour graphiques, pilotes
+ supplémentaires et réglages de performance. Inclut wsdd 0.9 (MIT,
+ Steffen Christgau) pour voir les partages Windows dans « Réseau ».
+

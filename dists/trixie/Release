@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Sat, 24 Oct 2026 13:49:23 +0000
+Description: Paquets d'Aube Linux
+Label: Aube Linux
+Origin: Aube Linux
+Suite: trixie
+MD5Sum:
+ 95ef69952adc7fa3c3089b85de6ba560             1093 main/binary-amd64/Packages
+ 31659d29e909f52d795626e6df3af17d              762 main/binary-amd64/Packages.gz
+SHA1:
+ d8ad06945bff6e1a69c5b5204ca2ebb897b13d3d             1093 main/binary-amd64/Packages
+ 2df12b06fd2e5680d6e0fb05ef7df1b91f3b0d0f              762 main/binary-amd64/Packages.gz
+SHA256:
+ a5690337bc43495770b20a54d63b250ab8e495ea3002248e9f3f359f2b1f94f8             1093 main/binary-amd64/Packages
+ bf8bd8088316c3629eb1466d07a8706ec83b5f014dc3ca79c82a936480d85217              762 main/binary-amd64/Packages.gz
+SHA512:
+ 9728cefb8df824f78051bead27897c5b299d070dc3051cf2507db563c8f4aaa03a8e2dcb67dcc0e0b182d85a337d748dbdf2647d72181b7624562cdf747849f3             1093 main/binary-amd64/Packages
+ 8ec8c465bbfa74c591839478c65a2f08099b8d856da9a94d01988c43c5889329308cea3883ddbe0eb1f8ed56789e4568b41ecbe616600e52c9b0a3ac984853be              762 main/binary-amd64/Packages.gz
